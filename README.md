@@ -3,7 +3,8 @@ import java.util.Scanner;
  
 public class Main {
      public static void main(String[] args) {
-         int mat, fizik, kimya, tarih, turkce, muzik;
+        
+        int mat, fizik, kimya, tarih, turkce, muzik;
         Scanner inp = new Scanner(System.in);
       
     System.out.print("Matematik dersinin notunu girin:");
