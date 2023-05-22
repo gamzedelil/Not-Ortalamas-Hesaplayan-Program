@@ -1,1 +1,1 @@
-# Not-Ortalamas-Hesaplayan-Program
+# Not-Ortalamasi-Hesaplayan-Program
